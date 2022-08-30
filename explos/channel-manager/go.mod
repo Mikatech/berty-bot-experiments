@@ -34,7 +34,7 @@ require (
 require (
 	bazil.org/fuse v0.0.0-20200524192727-fb710f7dfd05 // indirect
 	berty.tech/go-ipfs-log v1.8.0 // indirect
-	berty.tech/go-ipfs-repo-encrypted v1.1.4 // indirect
+	berty.tech/go-ipfs-repo-encrypted v1.1.3 // indirect
 	berty.tech/go-orbit-db v1.17.1 // indirect
 	contrib.go.opencensus.io/exporter/prometheus v0.4.0 // indirect
 	github.com/AndreasBriese/bbloom v0.0.0-20190825152654-46b345b51c96 // indirect
@@ -61,10 +61,8 @@ require (
 	github.com/dgraph-io/badger v1.6.2 // indirect
 	github.com/dgraph-io/ristretto v0.0.3 // indirect
 	github.com/dustin/go-humanize v1.0.0 // indirect
-	github.com/eclipse/paho.mqtt.golang v1.2.0 // indirect
 	github.com/eknkc/basex v1.0.1 // indirect
 	github.com/elgris/jsondiff v0.0.0-20160530203242-765b5c24c302 // indirect
-	github.com/emitter-io/go/v2 v2.0.9 // indirect
 	github.com/facebookgo/atomicfile v0.0.0-20151019160806-2de1f203e7d5 // indirect
 	github.com/flynn/noise v1.0.0 // indirect
 	github.com/francoispqt/gojay v1.2.13 // indirect
